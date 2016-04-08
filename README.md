@@ -5,3 +5,18 @@ Oiiii tudo bem?
 
 
 Olá, tudo bem?
+Tudo e com vc?
+
+
+
+C
+D
+D
+D
+i
+B
+B
+A
+A
+A
+
