@@ -1,0 +1,11 @@
+### Algumas observações para ajustar o Projeto ###
+
+
+-> Precisamos atribuir a issue, para que o nome da pessoa apareça no Dashboard.
+    - As issues que não são assinadas, aparecem com o campo "Assignee", em branco;
+
+-> Formatar a data;
+
+-> Centralizar a imagem do "HU";
+
+-> No geral, "melhorar" o html da página.

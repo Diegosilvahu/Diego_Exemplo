@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+</head> 
+<body>
+<p bgcolor = "blue"> 
+<p id = "menu" align = "middle"> 
+<a href = "Test.html "> HOME </a></div> 
+<div id = "content" align = "left" bgcolor="white"> 
+<h5> conteúdo dos artigos </h5> 
+<p> conteúdo real vai aqui ..... </p> </div>
+
+</body>
+</html>

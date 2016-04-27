@@ -1,0 +1,30 @@
+Mapeamento de possíveis testes que podem ser executados:
+
+<Aba Destinos>
+Ao clicar em Destino deve aparecer Nacionais e Internacionais
+Em nacionais deve conter Sudeste, Nordeste, Norte, CEntro-oeste e Sul
+Em internacionais deve conter Estados Unidos, América Latina e Europa
+Em destinos também deve ser mostrado Diverso-+Buscados
+Dentro de cada Região Nacinal deve aparecer os respectivos estados e locais(cidades)
+Dentro de cada Região Internaconal deve aparecer os respectivos estados e locais(cidades)
+Dentro de Diverso-+Buscados deve aparecer as regiões com mais acesso.
+
+
+
+<Busca a partir da aba Destinos>
+Dentro da região Sudeste e mais adentro em Rio de Janeiro, clicar em Cabo Frio, por exemplo, e em seguida deve aparecer "Resultado de busca encontrado para Cabo Frio"
+
+
+<Busca> 
+
+
+<Projeto que verifique os erros de HTTP e HTTPS nas paginas do hotelurbano.com>
+
+
+<Verificar o tempo de resposta das paginas>
+
+<Verificar a atividade dos testes no app>
+
+<Verificar a pagina de Hoteis selecionando todos os processo até a parte da reserva.>
+
+<Verificar o filtro e elaborar o Slide de demonstracao>
